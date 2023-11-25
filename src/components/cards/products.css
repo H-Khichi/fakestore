@@ -1,0 +1,38 @@
+.cards{
+    background-color: #fff1;
+}
+.card_btn{
+    opacity: 0;
+    text-align: right;
+    position: relative;
+    top: 10px;
+}
+.card_btn:hover{
+    opacity: 100;
+}
+
+.add_btn{
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 25px;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    position: relative;
+    top: 20px;
+    right: 10px;
+}
+.view_btn{
+    background-color: rgb(225, 223, 223);
+    border: none;
+    font-size: 25px;
+    font-weight: bold;
+    width: 40px;
+    height: 40px;
+    margin: 10px; 
+    position: relative;
+    top: 20px;
+    right: 10px;
+}

@@ -1,0 +1,34 @@
+.cart_detail{
+    height: 700px;
+}
+.final_items{
+width: 100%;
+}
+.final-items{
+    justify-content: space-between;
+}
+.total_items{
+    margin-top: 10px;
+    font-size: 1rem;
+}
+.clear-cart{
+    padding: 10px;
+    border: none;
+    background-color: red;
+    color:white;
+}
+.view-btn{
+    width: 100%;
+    border: none;
+    background-color: gray;
+    padding: 10px 0px;
+    margin-top: 10px;
+}
+.check-btn{
+    width: 100%;
+    border: none;
+    background-color: rgb(24, 24, 24);
+    margin-top: 10px;
+    padding: 10px 0px;
+    color: white;
+}
